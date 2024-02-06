@@ -23,6 +23,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/fuku-uma">
     <img height="20" src="https://img.shields.io/github/followers/fuku-uma?label=follow&logo=github&style=flat" />
   </a>
+  <a href="http://twitter.com/fuku_umaiux">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  </a>
   <a href="http://qiita.com/fuku_uma">
     <img height="20" src="https://qiita-badge.apiapi.app/s/fuku_uma/posts.svg" />
   </a>
@@ -36,11 +39,11 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=fuku-uma&theme=onedark&show_icons=ture" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuku-uma&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuku-uma&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuku-uma&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fuku-uma&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fuku-uma&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuku-uma&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuku-uma&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuku-uma&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fuku-uma&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fuku-uma&theme=radical&utcOffset=9)
 
 
 
