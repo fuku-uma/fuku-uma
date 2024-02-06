@@ -21,11 +21,12 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=fuku-uma&theme=onedark&show_icons=ture" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuku-uma&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuku-uma&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuku-uma&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fuku-uma&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fuku-uma&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuku-uma&theme=gruvbox&width=400)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuku-uma&theme=gruvbox&width=400)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuku-uma&theme=gruvbox&width=400)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fuku-uma&theme=gruvbox&width=400)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fuku-uma&theme=gruvbox&utcOffset=9&width=400)
+
 
 
 <!--## Trophy->
